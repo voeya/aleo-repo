@@ -1,16 +1,7 @@
 aleo smart contract
 
 
-source $HOME/.cargo/env
 
-rustup install stable
-
-rustup update stable
-
-rustup default stable
-
-git clone https://github.com/AleoHQ/leo
-cd leo
 
 apt install clang gcc libssl-dev pkg-config
 
