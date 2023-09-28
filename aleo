@@ -2,21 +2,7 @@ aleo smart contract
 
 
 
-
-apt install clang gcc libssl-dev pkg-config
-
-cargo install --path .
-
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1
-cd snarkOS
-
-./build_ubuntu.sh
-
-cargo install --path .
-
-
-طھظˆغŒغŒطھ ط¨ط±ط§غŒ ظپط§ط³طھ
-------------------------------------------------------------------
+-----------------------------
 
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
 
