@@ -10,7 +10,7 @@ mkdir demo_deploy_Leo_app && cd demo_deploy_Leo_app
 
 WALLETADDRESS=""
 
-APPNAME=helloworld_"${WALLETADDRESS:4:6}"
+
 
 leo new "${APPNAME}"
 
