@@ -12,7 +12,3 @@ WALLETADDRESS=""
 
 
 
-leo new "${APPNAME}"
-
-PATHTOAPP=$(realpath -q $APPNAME)
-
